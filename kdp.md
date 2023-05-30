@@ -12,7 +12,7 @@ Throughout the book, readers will find case studies, real-life examples, and pra
 
 Whether you are a building owner or operator, designer, or engineer looking to stay ahead of the curve in the rapidly evolving world of smart buildings, "Artificial Intelligence and Smart Buildings: The Role of Intelligent Technologies in Designing Sustainable and Energy-Efficient Buildings" provides valuable insights and practical strategies to help you achieve your goals.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
