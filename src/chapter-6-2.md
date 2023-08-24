@@ -1,5 +1,3 @@
-Sustainable Practices
-=========================================================================
 
 Smart buildings have the potential to reduce the environmental impact of buildings and promote sustainable practices. From energy-efficient building systems to sustainable materials and waste reduction strategies, AI-powered smart building solutions can help building owners and managers achieve their sustainability goals. This chapter will explore the role of AI in promoting environmental impact and sustainability in smart buildings.
 

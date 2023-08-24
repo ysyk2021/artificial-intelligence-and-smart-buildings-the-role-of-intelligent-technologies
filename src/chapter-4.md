@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Smart Buildings
-========================================
 
 Benefits of AI in Smart Buildings
 ---------------------------------

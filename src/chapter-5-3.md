@@ -1,5 +1,3 @@
-Indoor Air Quality Monitoring and Control
-=========================================================================================
 
 Indoor air quality (IAQ) plays a critical role in occupant health, wellbeing, and productivity. Poor IAQ can lead to a range of health problems, including respiratory illnesses, allergies, and asthma. AI-powered smart building solutions offer the potential to monitor and control IAQ in real-time, promoting occupant health and wellbeing. This chapter will explore the role of AI in IAQ monitoring and control in smart buildings.
 

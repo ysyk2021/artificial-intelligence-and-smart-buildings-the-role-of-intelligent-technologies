@@ -1,5 +1,3 @@
-Chapter 3: Smart Building Landscape
-===================================
 
 The smart building landscape is rapidly evolving as the use of artificial intelligence (AI) and other intelligent technologies becomes more prevalent in building design and operation. This chapter will provide an overview of the global building energy consumption and production trends, as well as the key components of smart buildings.
 

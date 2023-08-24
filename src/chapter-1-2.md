@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The purpose of this book, "Artificial Intelligence and Smart Buildings: The Role of Intelligent Technologies in Designing Sustainable and Energy-Efficient Buildings," is to explore the ways in which artificial intelligence and other intelligent technologies can be used to create building environments that are both sustainable and energy-efficient.
 

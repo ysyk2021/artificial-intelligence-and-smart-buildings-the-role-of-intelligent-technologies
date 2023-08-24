@@ -1,5 +1,3 @@
-Carbon Footprint Reduction
-==============================================================================
 
 Carbon footprint reduction is a critical component of promoting environmental impact and sustainability in buildings. Smart building solutions powered by AI can assist building owners and managers in achieving their carbon footprint reduction goals, from optimizing building systems to incorporating renewable energy sources. This chapter will explore the role of AI-powered smart building solutions in carbon footprint reduction.
 

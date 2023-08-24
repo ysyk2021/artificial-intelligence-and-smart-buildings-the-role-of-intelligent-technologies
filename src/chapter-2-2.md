@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving field that has grown exponentially in recent years. In this chapter, we will explore the background and fundamentals of AI, including the different types of AI that exist.
 

@@ -1,5 +1,3 @@
-Building Automation Systems
-===========================================================================
 
 In this chapter, we will explore the use of AI-powered building automation systems in smart buildings. Building automation systems (BAS) use sensors, software, and communication technologies to automate building systems such as lighting, heating, ventilation, and air conditioning (HVAC). By using AI technology, these systems can optimize building performance, reduce energy consumption, and improve occupant comfort and wellbeing.
 

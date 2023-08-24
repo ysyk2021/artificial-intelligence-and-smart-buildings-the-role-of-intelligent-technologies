@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Smart Building Solutions
-==============================================
 
 In this chapter, we will explore the role of artificial intelligence (AI) in building automation and management. We will discuss how AI-powered solutions are transforming buildings into more sustainable, energy-efficient, and comfortable environments for occupants.
 

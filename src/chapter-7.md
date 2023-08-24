@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Smart Buildings
-====================================================================
 
 As the use of artificial intelligence (AI) in smart buildings becomes increasingly prevalent, it is important to consider the ethical and legal implications of these technologies. Building managers must be aware of the potential risks associated with using AI-based systems, and take steps to mitigate any negative impacts.
 

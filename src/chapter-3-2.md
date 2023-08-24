@@ -1,5 +1,3 @@
-Components of Smart Buildings
-==================================================================
 
 In this chapter, we will explore the landscape of smart buildings and the key components that make them intelligent and sustainable. Smart buildings are equipped with sensors, automation systems, and data analytics tools that enable them to optimize energy consumption, enhance occupant comfort, and improve building performance.
 

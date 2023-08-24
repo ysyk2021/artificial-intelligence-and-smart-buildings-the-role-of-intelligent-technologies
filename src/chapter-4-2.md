@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Smart Buildings
-=============================================================================================
 
 In this chapter, we will explore the challenges and limitations of using artificial intelligence (AI) in smart buildings.
 

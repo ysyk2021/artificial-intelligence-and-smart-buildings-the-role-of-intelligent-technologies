@@ -1,5 +1,3 @@
-Global Building Energy Consumption and Production Trends
-=============================================================================================
 
 In this chapter, we will examine the current landscape of smart buildings in relation to global building energy consumption and production trends. To design sustainable and energy-efficient buildings, it is important to understand the current state of global energy consumption and production.
 

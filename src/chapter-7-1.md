@@ -1,5 +1,3 @@
-Ethical Considerations
-============================================================================================
 
 In this chapter, we will explore the ethical considerations related to using artificial intelligence (AI) in smart buildings.
 

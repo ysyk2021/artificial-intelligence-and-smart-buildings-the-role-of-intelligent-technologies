@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Smart Buildings
-===========================================
 
 As the use of artificial intelligence and smart building solutions continues to grow, it is important to consider the emerging trends and future prospects for this field. This chapter will explore some of the key trends and prospects for the future of AI and smart buildings.
 

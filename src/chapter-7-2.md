@@ -1,5 +1,3 @@
-Legal Framework
-=====================================================================================
 
 The use of artificial intelligence in smart buildings raises important ethical and legal issues that must be considered. In this chapter, we will explore the legal framework related to AI in smart buildings.
 

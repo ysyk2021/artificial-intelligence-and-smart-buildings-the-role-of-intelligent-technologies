@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that is transforming many industries, including building design and operation. This chapter will provide an overview of the history of AI, the different types of AI, and the machine learning techniques that are commonly used in AI-based systems.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 The design and construction of sustainable and energy-efficient buildings is becoming increasingly important in today's world. As we strive to reduce our carbon footprint and mitigate the impact of climate change, intelligent technologies such as artificial intelligence (AI) and the Internet of Things (IoT) are playing a crucial role in transforming the way we design and manage buildings.
 

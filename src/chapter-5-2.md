@@ -1,5 +1,3 @@
-Energy Management and Optimization
-==================================================================================
 
 Energy consumption in buildings accounts for a significant portion of global energy usage and greenhouse gas emissions. AI-powered smart building solutions offer the potential to optimize energy usage, reduce energy waste, and promote sustainability. This chapter will explore the role of AI in energy management and optimization in smart buildings.
 

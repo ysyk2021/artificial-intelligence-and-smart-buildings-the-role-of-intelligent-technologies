@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Smart Buildings
-================================================================================
 
 Artificial intelligence (AI) has rapidly evolved into a powerful tool for improving efficiency and sustainability in smart buildings. The use of intelligent technologies in building design and operations has become increasingly critical as the world grapples with the challenge of reducing carbon emissions and improving energy efficiency.
 

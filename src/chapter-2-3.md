@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will discuss the background and fundamentals of artificial intelligence (AI), with a focus on machine learning techniques. AI is a key driver in the evolution of smart building technologies, and it is important to understand the underlying principles of machine learning in order to fully appreciate the potential of AI in building design.
 
