@@ -1,29 +1,39 @@
+Chapter 4: Types of Artificial Intelligence
+===========================================
 
-Artificial Intelligence (AI) is a rapidly evolving field that has grown exponentially in recent years. In this chapter, we will explore the background and fundamentals of AI, including the different types of AI that exist.
+Artificial intelligence (AI) is a rapidly evolving field, encompassing a diverse range of techniques and applications. In this chapter, we will explore the different types of AI and their relevance to smart building design and operation.
 
-Background of Artificial Intelligence
--------------------------------------
+**1. Reactive Machines**
+------------------------
 
-AI refers to the development of intelligent machines that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision making, and language translation. The history of AI dates back to the 1950s, and since then, the field has evolved significantly, with breakthroughs in areas such as computer vision, natural language processing, and machine learning.
+Reactive machines are the simplest type of AI and operate solely on the basis of their inputs. They do not have the ability to form memories or use past experiences to inform future decisions. As a result, reactive machines have limited functionality and are often used in tasks that require real-time processing, such as traffic control and gaming.
 
-Types of Artificial Intelligence
---------------------------------
+**2. Limited Memory**
+---------------------
 
-There are three main types of AI:
+Limited memory AI systems can retain a limited amount of information over time to improve decision-making capabilities. They can use past experiences to adapt to new situations, but their memory capacity is relatively restricted. Many smart building applications, such as occupancy detection and predictive maintenance, rely on limited memory AI systems.
 
-### 1. Rule-Based AI
+**3. Theory of Mind**
+---------------------
 
-Rule-based AI, also known as expert systems, uses a set of predefined rules to make decisions or solve problems. These rules are based on the knowledge and expertise of human experts and are programmed into the system. Rule-based AI is useful for tasks that have a clear set of rules and can be automated.
+Theory of mind AI systems are capable of modeling the beliefs and intentions of other entities, including humans. These systems can predict how other agents will behave and use this information to make more informed decisions. While theory of mind AI has not yet been widely applied in smart buildings, it holds potential for applications such as personalized comfort and security.
 
-### 2. Machine Learning
+**4. Self-Aware AI**
+--------------------
 
-Machine learning is a type of AI that allows machines to learn from data without being explicitly programmed. Instead, algorithms are used to identify patterns in data and make predictions or take actions based on those patterns. There are several types of machine learning, including supervised learning, unsupervised learning, and reinforcement learning.
+Self-aware AI systems possess consciousness and can understand their own existence. This level of AI is still largely theoretical and hypothetical, with no practical applications in smart buildings.
 
-### 3. Deep Learning
+**5. General AI**
+-----------------
 
-Deep learning is a subset of machine learning that uses neural networks to analyze complex data sets. Neural networks are composed of layers of interconnected nodes that process information and make predictions based on that information. Deep learning is useful for tasks such as image and speech recognition.
+General AI, also known as strong AI, is the hypothetical concept of AI that possesses human-level cognitive abilities across multiple domains. While we are yet to achieve general AI, it is an ultimate goal of AI research. The development of general AI could enable smart building systems to operate with greater autonomy and efficiency, ultimately leading to more sustainable and energy-efficient buildings.
 
-Conclusion
-----------
+**6. Narrow AI**
+----------------
 
-In conclusion, AI is a rapidly evolving field that has seen significant advances in recent years. There are three main types of AI: rule-based AI, machine learning, and deep learning. Each type of AI has its own strengths and weaknesses, and different types are suited to different applications. As AI continues to evolve, we can expect to see even more innovative applications of this technology in smart building design and operations.
+Narrow AI, also known as weak AI, is the most common type of AI in use today. It is designed to perform a specific task and can achieve human-level performance in that task. Many smart building applications, such as energy optimization and fault detection, rely on narrow AI systems.
+
+**Conclusion**
+--------------
+
+The different types of AI each hold their own unique potential and limitations. Reactive machines and limited memory AI are well-suited for many smart building applications, while theory of mind and self-aware AI remain largely theoretical at this point. Ultimately, the goal of AI research is to create general AI systems capable of performing a wide range of tasks with human-level cognitive abilities. By leveraging the strengths of different types of AI, we can develop intelligent technologies that enhance sustainability, energy efficiency, and occupant comfort in smart buildings.
