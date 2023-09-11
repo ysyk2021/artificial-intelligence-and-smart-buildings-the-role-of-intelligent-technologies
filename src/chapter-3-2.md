@@ -1,5 +1,4 @@
-Chapter: Components of Smart Buildings
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Smart buildings are equipped with advanced technologies and intelligent systems that enhance their functionality, sustainability, and energy efficiency. These components work in harmony to create an integrated and interconnected environment that optimizes building operations and enhances occupant comfort. This chapter explores the key components of smart buildings and their role in transforming traditional buildings into intelligent, sustainable structures.
 

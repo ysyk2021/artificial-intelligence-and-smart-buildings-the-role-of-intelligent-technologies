@@ -1,5 +1,4 @@
-Chapter 4: Benefits of AI in Smart Buildings
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) plays a crucial role in the design and operation of smart buildings, enabling them to be sustainable, energy-efficient, and technologically advanced. In this chapter, we will explore the numerous benefits that AI brings to smart buildings and how it revolutionizes the way buildings are designed, constructed, and managed.
 

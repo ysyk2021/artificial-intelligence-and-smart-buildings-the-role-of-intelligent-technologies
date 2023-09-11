@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of AI in Smart Buildings
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has revolutionized the design and operation of smart buildings, providing opportunities for improved energy efficiency, sustainability, and occupant comfort. However, there are several challenges and limitations that need to be addressed to fully leverage the potential of AI in smart buildings. This chapter explores some of these challenges and discusses strategies to overcome them.
 

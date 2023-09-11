@@ -1,5 +1,4 @@
-Chapter 6: Global Building Energy Consumption and Production Trends
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the global trends in building energy consumption and production, highlighting the role of intelligent technologies in designing sustainable and energy-efficient buildings.
 

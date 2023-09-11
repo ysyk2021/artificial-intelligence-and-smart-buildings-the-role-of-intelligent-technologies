@@ -1,5 +1,4 @@
-Chapter 4: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is a rapidly evolving field, encompassing a diverse range of techniques and applications. In this chapter, we will explore the different types of AI and their relevance to smart building design and operation.
 

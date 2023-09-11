@@ -1,5 +1,4 @@
-Chapter 3: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning techniques play a crucial role in the implementation of intelligent technologies in smart buildings. These techniques enable systems to learn from data, identify patterns, and make predictions or decisions. In this chapter, we will explore some of the key machine learning techniques used in the context of designing sustainable and energy-efficient buildings.
 

@@ -1,5 +1,4 @@
-Chapter 5: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to advance and be integrated into smart buildings, it is crucial to address the ethical implications that arise from these technologies. In this chapter, we will discuss some of the key ethical considerations associated with the use of AI in designing sustainable and energy-efficient buildings.
 
